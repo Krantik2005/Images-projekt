@@ -1,0 +1,13 @@
+.load__button {
+	width: 205px;
+	height: 45px;
+	background: linear-gradient(to top, rgb(255, 105, 0), rgb(255, 162, 0));
+	font-family: "Tahoma Regular", Regular, sans-serif;
+	font-size: 22px;
+	line-height: 28px;
+	font-weight: bold;
+	color: #fff;
+	letter-spacing: 1.5px;
+	border-radius: 5px;
+	border: 0;
+}

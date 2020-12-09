@@ -1,0 +1,7 @@
+.header__item {
+	border-left: 1px solid rgb(225, 225, 225);
+}
+
+.header__item:first-child {
+	border-left: none;
+}

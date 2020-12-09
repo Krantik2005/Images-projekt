@@ -1,0 +1,19 @@
+.header__link {
+	display: flex;
+	width: 115px;
+	max-width: 115px;
+	height: 120px;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-decoration: none;
+	font-family: 'Tahoma Regular', "Regular", sans-serif;
+    color: rgb(103,102,102);
+    line-height: 35px;
+}
+
+.header__link:hover {
+	border-bottom: 3px solid rgb(255, 126, 12);
+	background: no-repeat linear-gradient(to top, rgb(205, 197, 195), rgb(255, 255, 255));
+	transition: 0.4s ease;
+}

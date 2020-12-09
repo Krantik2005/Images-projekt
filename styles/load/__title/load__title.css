@@ -1,0 +1,9 @@
+.load__title {
+	font-family: "Tahoma Regular", Regular, sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 36px;
+    color: rgb(86, 86, 86);
+    letter-spacing: 0.5px;
+}

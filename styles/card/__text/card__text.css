@@ -1,0 +1,8 @@
+.card__text {
+	font-size: 16px;
+    font-family: "Times New Roman Regular", Regular, sans-serif;
+    line-height: 20px;
+    font-weight: normal;
+    color: rgb(185, 179, 179);
+    padding-left: 7px;
+}

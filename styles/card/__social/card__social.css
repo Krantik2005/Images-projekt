@@ -1,0 +1,14 @@
+.card__social {
+	width: 25px;
+	height: 25px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: no-repeat rgb(174, 172, 173);
+	border-radius: 50%;
+}
+
+.card__social:hover {
+	background: no-repeat rgb(49, 65, 161);
+	cursor: pointer;
+}
