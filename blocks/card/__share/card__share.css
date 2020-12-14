@@ -1,8 +1,8 @@
 .card__share {
 	display: grid;
-	grid-template-columns: 1fr 1fr 1fr 1fr 1fr; 
+	grid-template-columns: 40px repeat(4, 26px);
 	gap: 5px;
 	align-items: center;
-	justify-content: center;
+	justify-content: flex-end;
 	margin-top: 5px;
 }
